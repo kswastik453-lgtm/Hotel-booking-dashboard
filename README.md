@@ -59,10 +59,8 @@ The main objective of this project is to:
 - Visualized user engagement and ratings data
 
 ---
-
 ## 📷 Dashboard Preview
 
-```markdown
 ![Dashboard](Dashboard.png)
 ```
 
