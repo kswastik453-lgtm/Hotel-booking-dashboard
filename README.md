@@ -62,10 +62,10 @@ The main objective of this project is to:
 
 ## 📷 Dashboard Preview
 
-> Upload your screenshot and replace `dashboard.png` with your actual image name.
+"Dashboard.png" 
 
 ```markdown
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 ```
 
 ---
