@@ -62,8 +62,6 @@ The main objective of this project is to:
 
 ## 📷 Dashboard Preview
 
-"Dashboard.png" 
-
 ```markdown
 ![Dashboard](Dashboard.png)
 ```
