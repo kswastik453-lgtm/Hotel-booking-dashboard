@@ -79,7 +79,5 @@ The main objective of this project is to:
 ---
 
 ## 🧠 Conclusion
-
-This project demonstrates the practical use of Power BI for transforming raw hotel booking data into meaningful business insights through interactive dashboards and visual analytics.
-
----
+This project demonstrates the practical use of Power BI for transforming raw hotel booking data into meaningful business
+insights through interactive dashboards and visual analytics.
