@@ -2,13 +2,13 @@
 
 ## 📌 Project Overview
 
-This project is an interactive Hotel Booking Dashboard developed using Power BI to analyze hotel booking trends, customer behavior, ratings, and transaction insights.
+This project is an interactive Hotel Booking Dashboard developed using Power BI to analyze hotel booking trends, customer behavior,
+ratings, and transaction insights.
 
-The dashboard provides meaningful business insights through interactive visualizations and helps in understanding booking patterns, hotel performance, customer engagement, and overall analytics.
+The dashboard provides meaningful business insights through interactive visualizations and helps in understanding booking patterns,
+hotel performance, customer engagement, and overall analytics.
 
 ---
-
-
 ## 🎯 Objective
 
 The main objective of this project is to:
